@@ -68,3 +68,4 @@ for version in "${versions[@]}"; do
 done
 
 rm "$packages"
+echo "hello";
